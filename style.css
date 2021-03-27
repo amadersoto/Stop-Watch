@@ -1,0 +1,27 @@
+body{
+  background-color: rgb(105, 153, 127);
+}
+.watch{
+  background-color: rgb(96, 95, 160);
+  width: 350px;
+  height: 180px;
+  border-radius: 5px;
+  position: relative;
+  left: 400px;
+  top: 50px;
+  box-shadow: 10px 10px 10px 4px;
+}
+.coundown{
+  position: absolute;
+  left: 80px;
+  top: -8px;
+}
+.coundown p{
+  font-size: 90px;
+  float: left;
+}
+.button{
+  position: absolute;
+  top: 120px;
+  left: 80px;
+}
